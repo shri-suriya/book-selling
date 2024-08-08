@@ -1,4 +1,5 @@
 import First from "./components/First";
+import Second from "./components/Second";
 function App() {
   return (
     <div className="App">
@@ -7,6 +8,7 @@ function App() {
           hii hello
         </p>
     <First />
+    <Second />
     </div>
   );
 }
